@@ -1,5 +1,5 @@
 # template
-Мой шаблон по верстке:  
+Мой шаблон для верстки  
 plugins:  
     1. "animate.css"  
     2. "browser-sync"  
